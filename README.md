@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Resmumo
+## Resumo
 
 Meu portifolio criado com a utilização de AngularDart e Flutter.
 
